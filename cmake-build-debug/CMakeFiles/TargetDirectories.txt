@@ -1,0 +1,3 @@
+D:/STUDIA_INFORMATYCZNE/ROK_II/SEM_IV/05_ASD/kolejka/cmake-build-debug/CMakeFiles/kolejka.dir
+D:/STUDIA_INFORMATYCZNE/ROK_II/SEM_IV/05_ASD/kolejka/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STUDIA_INFORMATYCZNE/ROK_II/SEM_IV/05_ASD/kolejka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
